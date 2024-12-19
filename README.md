@@ -52,7 +52,7 @@ Hi there! I'm Negin, a web developer and electronics graduate with a background 
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
 ---
-- 🔭 I’m currently working on improving my flask skills.
+- 🔭 I’m currently working on improving my Flask skills.
 - 🌱 I’m currently learning Django.
 ---
 
