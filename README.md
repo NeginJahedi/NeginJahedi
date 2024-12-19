@@ -13,6 +13,8 @@ Hi there! I'm Negin, a web developer and electronics graduate with a background 
 - JavaScript
 - SQL
 - HTML5 & CSS3
+- C
+- MATLAB
 
 ### Frameworks & Libraries:
 - Flask (Backend Development)
@@ -28,6 +30,7 @@ Hi there! I'm Negin, a web developer and electronics graduate with a background 
 ## 🛠️ **Electronics & Embedded Systems Skills**
 
 - PCB Design using Altium Designer
+- Circuit Design and Analysis using pspice, orcad, Cadence.
 - Experience building a Bluetooth speaker (from schematic to PCB)
 - Knowledge of working with microcontrollers
 - Proficient in reading datasheets and technical documentations
@@ -48,17 +51,11 @@ Hi there! I'm Negin, a web developer and electronics graduate with a background 
 - Designed and developed a responsive portfolio showcasing my work.
 - **Tech Stack:** HTML, CSS, JavaScript, Bootstrap
 
-
-
+---
+- 🔭 I’m currently working on improving my flask skills.
+- 🌱 I’m currently learning Django.
 ---
 
 ## 📫 **Contact Me**
 
 - Email: jahedi.eng@gmail.com
-
-
-
-
-
-- 🔭 I’m currently working on improving my flask skills.
-- 🌱 I’m currently learning Django.
