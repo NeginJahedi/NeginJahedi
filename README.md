@@ -1,16 +1,33 @@
-## Hi there 👋
+# Negin Jahedi — Backend Developer (Python / Django)
 
-<!--
-**NeginJahedi/NeginJahedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building practical, maintainable backend systems with Python and Django.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+Entry-level backend developer with experience in Python/Django and full-stack projects. I focus on clean code, backend design, and reliable workflows, and I’m eager to grow in remote backend roles.
+
+---
+
+## ⚙️ Tech Stack
+**Backend:** Python, Django, DRF, Celery, PostgreSQL, Redis  
+**Frontend:** JavaScript, HTML, CSS/SCSS, Bootstrap, AJAX  
+**Tools:** Git, Docker, Postman, VS Code  
+**Concepts:** REST APIs, Authentication, Background Tasks
+
+---
+
+## 🚀 Projects
+**EventHub** — Event management & ticketing with role-based access and Celery automation  
+**Online Shop** — E-commerce platform with owner dashboard and secure order workflow  
+**Audiofy** — CLI audiobook generator with TTS and progress tracking
+
+---
+
+## 🌱 Currently Learning
+FastAPI • Docker deployments • Scalable backend patterns
+
+---
+
+## 🌐 Connect
+🔗 [LinkedIn](#) • 💻 [GitHub](#) • 📧 [Email](#)
