@@ -18,14 +18,14 @@ Entry-level backend developer with experience in Python/Django and full-stack pr
 ---
 
 ## 🚀 Projects
-**EventHub** — Event management & ticketing with role-based access and Celery automation  
-**Online Shop** — E-commerce platform with owner dashboard and secure order workflow  
-**Audiofy** — CLI audiobook generator with TTS and progress tracking
+- **[EventHub](https://github.com/NeginJahedi/EventHub)** — Event management & ticketing with role-based access and Celery automation  
+- **[Online Shop](https://github.com/NeginJahedi/E-Commerce-Website)** — E-commerce platform with owner dashboard and secure order workflow  
+- **[Audiofy](https://github.com/NeginJahedi/Audiofy)** — CLI audiobook generator with TTS and progress tracking
 
 ---
 
 ## 🌱 Currently Learning
-FastAPI • Docker deployments • Scalable backend patterns
+RESTful API • Deployments • Scalable backend patterns
 
 ---
 
