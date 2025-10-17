@@ -30,4 +30,4 @@ FastAPI • Docker deployments • Scalable backend patterns
 ---
 
 ## 🌐 Connect
-🔗 [LinkedIn](#) • 💻 [GitHub](#) • 📧 [Email](#)
+🔗 [LinkedIn](https://linkedin.com/in/neginjahedi) • 💻 [GitHub](https://github.com/neginjahedi) • 📧 [Email](jahedi.eng@gmail.com)
