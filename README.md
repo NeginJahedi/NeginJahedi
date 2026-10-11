@@ -1,11 +1,11 @@
-# Negin Jahedi — Backend Developer (Python / Django)
+# Negin Jahedi — Electrical Engineering Graduate | Pursuing Robotics and Autonomous Systems
 
 Building practical, maintainable backend systems with Python and Django.
 
 ---
 
 ## 💡 About Me
-Entry-level backend developer with experience in Python/Django and full-stack projects. I focus on clean code, backend design, and reliable workflows, and I’m eager to grow in remote backend roles.
+I am an Electrical Engineering graduate with an interest in robotics, automation, and intelligent systems. Alongside my engineering background, I have developed practical programming skills through independent study and software projects, including Python and Django applications. My experience in software development has strengthened my problem-solving skills and ability to build technical solutions.I am now looking to deepen my engineering knowledge through a masters degree, combining my electrical engineering foundation with software and computational skills.
 
 ---
 
